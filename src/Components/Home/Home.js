@@ -11,8 +11,8 @@ const Home = () => {
             </div>
 
             <div>
-                <h1 className='text-5xl text-sky-600'>Your Next Laptop</h1>
-                <h1 className='text-5xl text-green-600'>Your Best Choose</h1>
+                <h1 className='text-5xl text-green-600'>Your Next Laptop</h1>
+                <h1 className='text-5xl text-sky-600'>Your Best Choose</h1>
                 <h2 className='mt-8 ml-2 indent-2'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus, facere? Distinctio totam, tempore labore quibusdam adipisci veritatis nobis! Debitis fugit id necessitatibus minima quisquam magnam.</h2>
                 
             </div>
